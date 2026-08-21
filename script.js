@@ -7,7 +7,7 @@ const relationshipStartedAt = '2025-01-01T00:00:00+07:00'; // บรรทัด
 const memories = [
   { date: '08/7/2025', title: 'ຂອງຂວັນອັນແລກ', image: 'photo/images (3).jpg', description: 'ຍັງຈື່ໄດ້ບໍ່ນີ້ເປັນຂອງຂວັນອັນແລກທີ່ເຮົາເຮັດນຳກັນ' },
   { date: 'ใส่วันที่ตรงนี้', title: 'ความทรงจำที่ 2', image: 'photo/new.png', description: 'ใส่คำอธิบายความทรงจำที่ 2 ตรงนี้' },
-  { date: 'ใส่วันที่ตรงนี้', title: 'ความทรงจำที่ 3', image: 'photo/images (4).jpg', description: 'ใส่คำอธิบายความทรงจำที่ 3 ตรงนี้' },
+  { date: 'ใส่วันที่ตรงนี้', title: 'ความทรงจำที่ 3', image: 'photo/images (4).jpg', description: '1' },
   { date: 'ใส่วันที่ตรงนี้', title: 'ความทรงจำที่ 4', image: '', description: 'ใส่คำอธิบายความทรงจำที่ 4 ตรงนี้' },
   { date: 'ใส่วันที่ตรงนี้', title: 'ความทรงจำที่ 5', image: '', description: 'ใส่คำอธิบายความทรงจำที่ 5 ตรงนี้' },
 ];
